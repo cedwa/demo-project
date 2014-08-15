@@ -1,0 +1,6 @@
+{
+  "name" : "cedwa-demo-project",
+  "version" : "0.0.0",
+  "main" : "./public/javascript/index.js",
+  "repository" : {"type": "git", "url": "git://github.co/cedwa/demo-project"},
+}
